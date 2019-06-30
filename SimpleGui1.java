@@ -4,6 +4,9 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 public class SimpleGui1 {
+	int x;
+	int y;
+	
 	JFrame frame;
 	JLabel label;
 	
